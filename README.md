@@ -31,6 +31,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS" width="45"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="45"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" width="45"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" width="45"/>&nbsp;
 
 <!-- Tools & IDEs -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" width="45"/>&nbsp;
@@ -74,15 +75,10 @@
 
 ### 💼 FNB App Academy Projects
 
-#### 🦸 Superhero Website
-
-- 🌐 **Built with HTML & CSS**
-- 🎮 Clickable superhero profiles
-- 📄 Includes About Us and Contact tabs
 
 #### 🐾 Pine City Zoo App
 
-- 🖥️ **Built with HTML, CSS & JavaScript**
+- 🖥️ **Built with HTML & CSS**
 - 🔍 Features:
   - Animal profiles and locations
   - Zoo map
